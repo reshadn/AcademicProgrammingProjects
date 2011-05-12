@@ -1,0 +1,5 @@
+C:\Reshad\Day8\BasicFileInfo\bin\Debug\BasicFileInfo.exe
+C:\Reshad\Day8\BasicFileInfo\bin\Debug\BasicFileInfo.pdb
+C:\Reshad\Day8\BasicFileInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day8\BasicFileInfo\obj\Debug\BasicFileInfo.exe
+C:\Reshad\Day8\BasicFileInfo\obj\Debug\BasicFileInfo.pdb

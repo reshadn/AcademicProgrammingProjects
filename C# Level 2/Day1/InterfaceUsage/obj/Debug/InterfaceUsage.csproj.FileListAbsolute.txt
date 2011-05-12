@@ -1,0 +1,10 @@
+C:\Reshad_C#\Day1\InterfaceUsage\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad_C#\Day1\InterfaceUsage\bin\Debug\InterfaceUsage.exe
+C:\Reshad_C#\Day1\InterfaceUsage\bin\Debug\InterfaceUsage.pdb
+C:\Reshad_C#\Day1\InterfaceUsage\obj\Debug\InterfaceUsage.exe
+C:\Reshad_C#\Day1\InterfaceUsage\obj\Debug\InterfaceUsage.pdb
+C:\Reshad_C#2008\Day1\InterfaceUsage\obj\Debug\InterfaceUsage.exe
+C:\Reshad_C#2008\Day1\InterfaceUsage\obj\Debug\InterfaceUsage.pdb
+C:\Reshad_C#2008\Day1\InterfaceUsage\bin\Debug\InterfaceUsage.exe
+C:\Reshad_C#2008\Day1\InterfaceUsage\bin\Debug\InterfaceUsage.pdb
+C:\Reshad_C#2008\Day1\InterfaceUsage\obj\Debug\ResolveAssemblyReference.cache

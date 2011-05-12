@@ -1,0 +1,5 @@
+C:\Reshad\Day 7\Contact\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\Contact\bin\Debug\Contact.dll
+C:\Reshad\Day 7\Contact\bin\Debug\Contact.pdb
+C:\Reshad\Day 7\Contact\obj\Debug\Contact.dll
+C:\Reshad\Day 7\Contact\obj\Debug\Contact.pdb

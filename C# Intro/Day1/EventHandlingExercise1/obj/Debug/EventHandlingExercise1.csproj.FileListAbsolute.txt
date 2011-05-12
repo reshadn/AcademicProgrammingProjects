@@ -1,0 +1,8 @@
+C:\Reshad\EventHandlingExercise1\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\EventHandlingExercise1\obj\Debug\EventHandlingExercise1.Form1.resources
+C:\Reshad\EventHandlingExercise1\obj\Debug\EventHandlingExercise1.Properties.Resources.resources
+C:\Reshad\EventHandlingExercise1\obj\Debug\EventHandlingExercise1.csproj.GenerateResource.Cache
+C:\Reshad\EventHandlingExercise1\bin\Debug\EventHandlingExercise1.exe
+C:\Reshad\EventHandlingExercise1\bin\Debug\EventHandlingExercise1.pdb
+C:\Reshad\EventHandlingExercise1\obj\Debug\EventHandlingExercise1.exe
+C:\Reshad\EventHandlingExercise1\obj\Debug\EventHandlingExercise1.pdb

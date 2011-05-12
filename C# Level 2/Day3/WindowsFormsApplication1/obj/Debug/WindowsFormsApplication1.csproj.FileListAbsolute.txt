@@ -1,0 +1,8 @@
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\2008Reshad_C#\Day3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

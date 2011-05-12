@@ -1,0 +1,16 @@
+C:\Reshad\hw\ContactInformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\hw\ContactInformation\obj\Debug\ContactInformation.ContactInformation.resources
+C:\Reshad\hw\ContactInformation\obj\Debug\ContactInformation.Properties.Resources.resources
+C:\Reshad\hw\ContactInformation\obj\Debug\ContactInformation.csproj.GenerateResource.Cache
+C:\Reshad\hw\ContactInformation\bin\Debug\ContactInformation.exe
+C:\Reshad\hw\ContactInformation\bin\Debug\ContactInformation.pdb
+C:\Reshad\hw\ContactInformation\obj\Debug\ContactInformation.exe
+C:\Reshad\hw\ContactInformation\obj\Debug\ContactInformation.pdb
+C:\Reshad\hw1\ContactInformation\obj\Debug\ContactInformation.exe
+C:\Reshad\hw1\ContactInformation\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\hw1\ContactInformation\obj\Debug\ContactInformation.ContactInformation.resources
+C:\Reshad\hw1\ContactInformation\obj\Debug\ContactInformation.Properties.Resources.resources
+C:\Reshad\hw1\ContactInformation\obj\Debug\ContactInformation.csproj.GenerateResource.Cache
+C:\Reshad\hw1\ContactInformation\bin\Debug\ContactInformation.exe
+C:\Reshad\hw1\ContactInformation\bin\Debug\ContactInformation.pdb
+C:\Reshad\hw1\ContactInformation\obj\Debug\ContactInformation.pdb

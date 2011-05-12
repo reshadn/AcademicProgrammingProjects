@@ -1,0 +1,5 @@
+C:\Reshad\Day8\EnvironmentBasics\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day8\EnvironmentBasics\bin\Debug\EnvironmentBasics.exe
+C:\Reshad\Day8\EnvironmentBasics\bin\Debug\EnvironmentBasics.pdb
+C:\Reshad\Day8\EnvironmentBasics\obj\Debug\EnvironmentBasics.exe
+C:\Reshad\Day8\EnvironmentBasics\obj\Debug\EnvironmentBasics.pdb

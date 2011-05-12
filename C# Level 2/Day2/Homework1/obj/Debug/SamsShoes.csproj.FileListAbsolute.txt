@@ -1,0 +1,14 @@
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\obj\Debug\Project4_ChristophersCarCenter.exe
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\obj\Debug\Project4_ChristophersCarCenter.pdb
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\bin\Debug\Project4_ChristophersCarCenter.exe
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\bin\Debug\Project4_ChristophersCarCenter.pdb
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\obj\Debug\ResolveAssemblyReference.cache
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\obj\Debug\SamsShoeStore.DisplayDataForm.resources
+C:\UCLA\IntermediateC#Fall2007\Module2\Homework1\obj\Debug\SamsShoes.csproj.GenerateResource.Cache
+C:\2008Reshad_C#\Day2\Homework1\obj\Debug\Project4_ChristophersCarCenter.exe
+C:\2008Reshad_C#\Day2\Homework1\obj\Debug\Project4_ChristophersCarCenter.pdb
+C:\2008Reshad_C#\Day2\Homework1\bin\Debug\Project4_ChristophersCarCenter.exe
+C:\2008Reshad_C#\Day2\Homework1\bin\Debug\Project4_ChristophersCarCenter.pdb
+C:\2008Reshad_C#\Day2\Homework1\obj\Debug\ResolveAssemblyReference.cache
+C:\2008Reshad_C#\Day2\Homework1\obj\Debug\SamsShoeStore.DisplayDataForm.resources
+C:\2008Reshad_C#\Day2\Homework1\obj\Debug\SamsShoes.csproj.GenerateResource.Cache

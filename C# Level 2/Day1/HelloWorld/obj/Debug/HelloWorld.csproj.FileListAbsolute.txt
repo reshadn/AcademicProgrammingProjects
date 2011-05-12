@@ -1,0 +1,8 @@
+C:\Reshad_C#\Day1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Reshad_C#\Day1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\HelloWorld.MainForm.resources
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Reshad_C#\Day1\HelloWorld\obj\Debug\HelloWorld.pdb

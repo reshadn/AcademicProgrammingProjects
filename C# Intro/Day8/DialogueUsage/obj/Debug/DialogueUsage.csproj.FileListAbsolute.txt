@@ -1,0 +1,8 @@
+C:\Reshad\Day8\DialogueUsage\bin\Debug\DialogueUsage.exe
+C:\Reshad\Day8\DialogueUsage\bin\Debug\DialogueUsage.pdb
+C:\Reshad\Day8\DialogueUsage\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day8\DialogueUsage\obj\Debug\DialogueUsage.DisplayData.resources
+C:\Reshad\Day8\DialogueUsage\obj\Debug\DialogueUsage.Properties.Resources.resources
+C:\Reshad\Day8\DialogueUsage\obj\Debug\DialogueUsage.csproj.GenerateResource.Cache
+C:\Reshad\Day8\DialogueUsage\obj\Debug\DialogueUsage.exe
+C:\Reshad\Day8\DialogueUsage\obj\Debug\DialogueUsage.pdb

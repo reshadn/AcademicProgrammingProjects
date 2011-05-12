@@ -1,0 +1,8 @@
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\bin\Debug\SimpleDragAndDrop.exe
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\bin\Debug\SimpleDragAndDrop.pdb
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\SimpleDragAndDrop.DisplayData.resources
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\SimpleDragAndDrop.Properties.Resources.resources
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\SimpleDragAndDrop.csproj.GenerateResource.Cache
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\SimpleDragAndDrop.exe
+C:\Reshad\C#ProgII\Day3\SimpleDragAndDrop\obj\Debug\SimpleDragAndDrop.pdb

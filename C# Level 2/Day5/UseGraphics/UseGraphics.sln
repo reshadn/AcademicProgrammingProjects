@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseGraphics", "UseGraphics.csproj", "{3EFC53C7-4FEC-4851-BA70-82A57B2E937B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFC53C7-4FEC-4851-BA70-82A57B2E937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFC53C7-4FEC-4851-BA70-82A57B2E937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFC53C7-4FEC-4851-BA70-82A57B2E937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFC53C7-4FEC-4851-BA70-82A57B2E937B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

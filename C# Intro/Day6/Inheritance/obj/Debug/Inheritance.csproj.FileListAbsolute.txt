@@ -1,0 +1,10 @@
+C:\Reshad\Day 6\Inheritance\bin\Debug\Inheritance.exe
+C:\Reshad\Day 6\Inheritance\bin\Debug\Inheritance.pdb
+C:\Reshad\Day 6\Inheritance\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 6\Inheritance\obj\Debug\Inheritance.exe
+C:\Reshad\Day 6\Inheritance\obj\Debug\Inheritance.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\Inheritance\obj\Debug\Inheritance.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\Inheritance\obj\Debug\Inheritance.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\Inheritance\bin\Debug\Inheritance.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\Inheritance\bin\Debug\Inheritance.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\Inheritance\obj\Debug\ResolveAssemblyReference.cache

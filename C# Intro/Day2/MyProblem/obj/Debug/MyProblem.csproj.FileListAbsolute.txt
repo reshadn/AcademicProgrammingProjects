@@ -1,0 +1,8 @@
+C:\Reshad\Day2\MyProblem\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day2\MyProblem\obj\Debug\MyProblem.MainForm.resources
+C:\Reshad\Day2\MyProblem\obj\Debug\MyProblem.Properties.Resources.resources
+C:\Reshad\Day2\MyProblem\obj\Debug\MyProblem.csproj.GenerateResource.Cache
+C:\Reshad\Day2\MyProblem\bin\Debug\MyProblem.exe
+C:\Reshad\Day2\MyProblem\bin\Debug\MyProblem.pdb
+C:\Reshad\Day2\MyProblem\obj\Debug\MyProblem.exe
+C:\Reshad\Day2\MyProblem\obj\Debug\MyProblem.pdb

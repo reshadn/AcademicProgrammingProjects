@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ThreadSafety">
+</Property><Property Name="Solution File" Value="C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\ThreadSafety.sln">
+</Property><Property Name="User Options File" Value="C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\ThreadSafety.suo">
+</Property><Property Name="Date" Value="Wednesday, November 19, 2008">
+</Property><Property Name="Time" Value="15:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ThreadSafety.sln" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\ThreadSafety.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ThreadSafety.suo" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\ThreadSafety.suo">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="ThreadSafety.csproj" Description="Project file successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\ThreadSafety.csproj">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="ThreadSafety.csproj.user" Description="Project user file successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\ThreadSafety.csproj.user">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="Counter.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\Counter.cs">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="CounterLock.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\CounterLock.cs">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="CounterUnsafe.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\CounterUnsafe.cs">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="ThreadClient.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\ThreadClient.cs">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="App.ico" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="ThreadSafety.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ThreadSafety" Source="ThreadSafety.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ThreadSafety.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ThreadSafety.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ThreadSafety" Source="ThreadSafety.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

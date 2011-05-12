@@ -1,0 +1,10 @@
+C:\Reshad\Day 7\UserInterface\bin\Debug\UserInterface.exe
+C:\Reshad\Day 7\UserInterface\bin\Debug\UserInterface.pdb
+C:\Reshad\Day 7\UserInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.DisplayForm.resources
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.FormA.resources
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.FormB.resources
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.exe
+C:\Reshad\Day 7\UserInterface\obj\Debug\UserInterface.pdb

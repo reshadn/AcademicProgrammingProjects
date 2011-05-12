@@ -1,0 +1,7 @@
+C:\Reshad\C#ProgII\Day4 missed\AddControl\bin\Debug\AddControl.dll
+C:\Reshad\C#ProgII\Day4 missed\AddControl\bin\Debug\AddControl.pdb
+C:\Reshad\C#ProgII\Day4 missed\AddControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\C#ProgII\Day4 missed\AddControl\obj\Debug\AddControl.ucAddControl.resources
+C:\Reshad\C#ProgII\Day4 missed\AddControl\obj\Debug\AddControl.csproj.GenerateResource.Cache
+C:\Reshad\C#ProgII\Day4 missed\AddControl\obj\Debug\AddControl.dll
+C:\Reshad\C#ProgII\Day4 missed\AddControl\obj\Debug\AddControl.pdb

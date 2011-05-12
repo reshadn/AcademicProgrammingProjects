@@ -1,0 +1,5 @@
+C:\Reshad\WarmUp1V2\bin\Debug\WarmUp1V2.exe
+C:\Reshad\WarmUp1V2\bin\Debug\WarmUp1V2.pdb
+C:\Reshad\WarmUp1V2\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\WarmUp1V2\obj\Debug\WarmUp1V2.exe
+C:\Reshad\WarmUp1V2\obj\Debug\WarmUp1V2.pdb

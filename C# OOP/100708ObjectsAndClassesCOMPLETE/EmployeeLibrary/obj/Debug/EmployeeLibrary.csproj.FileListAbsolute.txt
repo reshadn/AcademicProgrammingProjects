@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\My Documents\100708OOPLabObjectsAndClasses\EmployeeLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\100708OOPLabObjectsAndClasses\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Documents and Settings\Administrator\My Documents\100708OOPLabObjectsAndClasses\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Documents and Settings\Administrator\My Documents\100708OOPLabObjectsAndClasses\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Documents and Settings\Administrator\My Documents\100708OOPLabObjectsAndClasses\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

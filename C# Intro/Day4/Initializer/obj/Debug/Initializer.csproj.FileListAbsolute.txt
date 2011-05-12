@@ -1,0 +1,10 @@
+C:\Documents and Settings\reshad\C#VisualStudio\2008VisualC#\Day4\Initializer\bin\Debug\Initializer.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008VisualC#\Day4\Initializer\bin\Debug\Initializer.pdb
+C:\Documents and Settings\reshad\C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\reshad\C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\Initializer.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\Initializer.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\Initializer.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\Initializer.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day4\Initializer\bin\Debug\Initializer.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day4\Initializer\bin\Debug\Initializer.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day4\Initializer\obj\Debug\ResolveAssemblyReference.cache

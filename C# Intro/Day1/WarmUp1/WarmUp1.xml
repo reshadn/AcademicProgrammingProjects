@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WarmUp1</name>
+    </assembly>
+    <members>
+        <member name="T:Warmup1">
+            <summary>
+            Warmup Exercise 1
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\obj\Debug\ThreadSafety.exe
+C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\obj\Debug\ThreadSafety.pdb
+C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\bin\Debug\ThreadSafety.exe
+C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\bin\Debug\ThreadSafety.pdb
+C:\UCLA\IntermediateC#Fall2008\Module7\WarmupExerciseThreads\ThreadSafety\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\bin\Debug\TestAddControl.exe
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\bin\Debug\TestAddControl.pdb
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\bin\Debug\AddControl.dll
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\bin\Debug\AddControl.pdb
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\TestAddControl.Form1.resources
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\TestAddControl.Properties.Resources.resources
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\TestAddControl.csproj.GenerateResource.Cache
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\TestAddControl.exe
+C:\Reshad\C#ProgII\Day4 missed\TestAddControl\obj\Debug\TestAddControl.pdb

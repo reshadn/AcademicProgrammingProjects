@@ -1,0 +1,15 @@
+C:\Reshad\Day9\DatabaseCreation\bin\Debug\Databases\Zoo.mdf
+C:\Reshad\Day9\DatabaseCreation\bin\Debug\Databases\Zoo_log.ldf
+C:\Reshad\Day9\DatabaseCreation\bin\Debug\DatabaseCreation.exe.config
+C:\Reshad\Day9\DatabaseCreation\bin\Debug\DatabaseCreation.exe
+C:\Reshad\Day9\DatabaseCreation\bin\Debug\DatabaseCreation.pdb
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.Properties.Resources.resources
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.csproj.GenerateResource.Cache
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.exe
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.pdb
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.DisplayData.resources
+C:\Reshad\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.InsertAnimalType.resources
+C:\Reshad\01C#VisualStudio\2008C#II\Day9\DatabaseCreation\bin\Debug\DatabaseCreation.exe.config
+C:\Reshad\01C#VisualStudio\2008C#II\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.exe
+C:\Reshad\01C#VisualStudio\2008C#II\Day9\DatabaseCreation\obj\Debug\DatabaseCreation.pdb

@@ -1,0 +1,5 @@
+C:\Reshad\Day 7\MyWCL\bin\Debug\MyWCL.dll
+C:\Reshad\Day 7\MyWCL\bin\Debug\MyWCL.pdb
+C:\Reshad\Day 7\MyWCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\MyWCL\obj\Debug\MyWCL.dll
+C:\Reshad\Day 7\MyWCL\obj\Debug\MyWCL.pdb

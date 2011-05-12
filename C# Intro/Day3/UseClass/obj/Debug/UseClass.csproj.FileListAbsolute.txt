@@ -1,0 +1,7 @@
+C:\Reshad\Day3\UseClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day3\UseClass\bin\Debug\UseClass.exe
+C:\Reshad\Day3\UseClass\bin\Debug\UseClass.pdb
+C:\Reshad\Day3\UseClass\obj\Debug\UseClass.exe
+C:\Reshad\Day3\UseClass\obj\Debug\UseClass.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\UseClass\obj\Debug\UseClass.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\UseClass\obj\Debug\UseClass.pdb

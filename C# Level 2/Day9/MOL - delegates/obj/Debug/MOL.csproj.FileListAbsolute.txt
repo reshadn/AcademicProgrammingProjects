@@ -1,0 +1,5 @@
+C:\Reshad\Day9\MOL\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day9\MOL\bin\Debug\MOL.exe
+C:\Reshad\Day9\MOL\bin\Debug\MOL.pdb
+C:\Reshad\Day9\MOL\obj\Debug\MOL.exe
+C:\Reshad\Day9\MOL\obj\Debug\MOL.pdb

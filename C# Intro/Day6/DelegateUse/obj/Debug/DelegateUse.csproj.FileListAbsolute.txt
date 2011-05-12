@@ -1,0 +1,7 @@
+C:\Reshad\Day 6\DelegateUse\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 6\DelegateUse\bin\Debug\DelegateUse.exe
+C:\Reshad\Day 6\DelegateUse\bin\Debug\DelegateUse.pdb
+C:\Reshad\Day 6\DelegateUse\obj\Debug\DelegateUse.exe
+C:\Reshad\Day 6\DelegateUse\obj\Debug\DelegateUse.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\DelegateUse\obj\Debug\DelegateUse.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day6\DelegateUse\obj\Debug\DelegateUse.pdb

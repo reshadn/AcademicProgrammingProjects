@@ -1,0 +1,8 @@
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ValidatingData.DisplayData.resources
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ValidatingData.Properties.Resources.resources
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ValidatingData.csproj.GenerateResource.Cache
+C:\Reshad\Day 7\ValidatingData\bin\Debug\ValidatingData.exe
+C:\Reshad\Day 7\ValidatingData\bin\Debug\ValidatingData.pdb
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ValidatingData.exe
+C:\Reshad\Day 7\ValidatingData\obj\Debug\ValidatingData.pdb

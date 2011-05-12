@@ -1,0 +1,9 @@
+C:\2008Reshad_C#\Day2\NewProject\bin\Debug\NewProject.exe
+C:\2008Reshad_C#\Day2\NewProject\bin\Debug\NewProject.pdb
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\ResolveAssemblyReference.cache
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.b.resources
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.Form1.resources
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.Properties.Resources.resources
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.csproj.GenerateResource.Cache
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.exe
+C:\2008Reshad_C#\Day2\NewProject\obj\Debug\NewProject.pdb

@@ -1,0 +1,5 @@
+C:\Reshad\Day8\MyLib\bin\Debug\MyLib.dll
+C:\Reshad\Day8\MyLib\bin\Debug\MyLib.pdb
+C:\Reshad\Day8\MyLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day8\MyLib\obj\Debug\MyLib.dll
+C:\Reshad\Day8\MyLib\obj\Debug\MyLib.pdb

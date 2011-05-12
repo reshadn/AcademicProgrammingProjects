@@ -1,0 +1,8 @@
+C:\Reshad\Day 6\delegate\bin\Debug\delegate.exe
+C:\Reshad\Day 6\delegate\bin\Debug\delegate.pdb
+C:\Reshad\Day 6\delegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 6\delegate\obj\Debug\delegate.Form1.resources
+C:\Reshad\Day 6\delegate\obj\Debug\delegate.Properties.Resources.resources
+C:\Reshad\Day 6\delegate\obj\Debug\delegate.csproj.GenerateResource.Cache
+C:\Reshad\Day 6\delegate\obj\Debug\delegate.exe
+C:\Reshad\Day 6\delegate\obj\Debug\delegate.pdb

@@ -1,0 +1,5 @@
+C:\Reshad\Day 6\Inheritance\bin\Debug\Inheritance.exe
+C:\Reshad\Day 6\Inheritance\bin\Debug\Inheritance.pdb
+C:\Reshad\Day 6\Inheritance\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 6\Inheritance\obj\Debug\Inheritance.exe
+C:\Reshad\Day 6\Inheritance\obj\Debug\Inheritance.pdb

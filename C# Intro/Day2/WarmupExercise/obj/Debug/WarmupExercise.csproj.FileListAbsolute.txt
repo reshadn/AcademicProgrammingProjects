@@ -1,0 +1,5 @@
+C:\Reshad\Day2\WarmupExercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day2\WarmupExercise\bin\Debug\WarmupExercise.exe
+C:\Reshad\Day2\WarmupExercise\bin\Debug\WarmupExercise.pdb
+C:\Reshad\Day2\WarmupExercise\obj\Debug\WarmupExercise.exe
+C:\Reshad\Day2\WarmupExercise\obj\Debug\WarmupExercise.pdb

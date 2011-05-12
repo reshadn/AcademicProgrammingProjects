@@ -1,0 +1,16 @@
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.Display.resources
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.Properties.Resources.resources
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.csproj.GenerateResource.Cache
+C:\Reshad\Day2\UsingWindowsControls\bin\Debug\UsingWindowsControls.exe
+C:\Reshad\Day2\UsingWindowsControls\bin\Debug\UsingWindowsControls.pdb
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.exe
+C:\Reshad\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\bin\Debug\UsingWindowsControls.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\bin\Debug\UsingWindowsControls.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.Display.resources
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.Properties.Resources.resources
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingWindowsControls\obj\Debug\UsingWindowsControls.csproj.GenerateResource.Cache

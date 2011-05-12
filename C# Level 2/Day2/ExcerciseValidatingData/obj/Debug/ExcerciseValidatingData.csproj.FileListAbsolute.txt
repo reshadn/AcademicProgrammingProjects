@@ -1,0 +1,10 @@
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\bin\Debug\ExcerciseValidatingData.exe
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\bin\Debug\ExcerciseValidatingData.pdb
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ResolveAssemblyReference.cache
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.ValidateData.resources
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.Properties.Resources.resources
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.csproj.GenerateResource.Cache
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.exe
+C:\2008Reshad_C#\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.pdb
+C:\Reshad\01C#VisualStudio\2008C#II\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.exe
+C:\Reshad\01C#VisualStudio\2008C#II\Day2\ExcerciseValidatingData\obj\Debug\ExcerciseValidatingData.pdb

@@ -1,0 +1,9 @@
+C:\Reshad\Day 7\Process1\bin\Debug\Process1.exe
+C:\Reshad\Day 7\Process1\bin\Debug\Process1.pdb
+C:\Reshad\Day 7\Process1\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.Properties.Resources.resources
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.csproj.GenerateResource.Cache
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.exe
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.pdb
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.MainDisplay.resources
+C:\Reshad\Day 7\Process1\obj\Debug\Process1.MyForm.resources

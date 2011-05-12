@@ -1,0 +1,3 @@
+InterfaceUsage.Person Bill Gates 47
+InterfaceUsage.OakTree An Oak Tree 59
+InterfaceUsage.Dog Fido 91

@@ -1,0 +1,11 @@
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\bin\Debug\GatesServicesExercise.exe.config
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\bin\Debug\GatesServicesExercise.exe
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\bin\Debug\GatesServicesExercise.pdb
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.DisplayForm.resources
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.Properties.Resources.resources
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.csproj.GenerateResource.Cache
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.exe
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.pdb
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.BaseForm.resources
+C:\Reshad\01C#VisualStudio\2008C#II\Day6\GatesServicesExercise\obj\Debug\GatesServicesExercise.AboutForm.resources

@@ -1,0 +1,10 @@
+This boat's name is Apple
+Throttle back. 
+This boat's name is Mary
+Throttle forward. 
+This boat's name is Friend
+Throttle back. 
+This boat's name is Pear
+Throttle forward. 
+This boat's name is Bart
+Sail is up. 

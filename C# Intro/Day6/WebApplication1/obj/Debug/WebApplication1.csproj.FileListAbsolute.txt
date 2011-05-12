@@ -1,0 +1,5 @@
+C:\Reshad\Day 6\WebApplication1\bin\WebApplication1.dll
+C:\Reshad\Day 6\WebApplication1\bin\WebApplication1.pdb
+C:\Reshad\Day 6\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 6\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Reshad\Day 6\WebApplication1\obj\Debug\WebApplication1.pdb

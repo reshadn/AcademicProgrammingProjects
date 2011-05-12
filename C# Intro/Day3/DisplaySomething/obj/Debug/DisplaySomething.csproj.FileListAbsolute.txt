@@ -1,0 +1,10 @@
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\bin\Debug\DisplaySomething.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\bin\Debug\DisplaySomething.pdb
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\DisplaySomething.DisplaySomething.resources
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\DisplaySomething.Properties.Resources.resources
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\DisplaySomething.csproj.GenerateResource.Cache
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\DisplaySomething.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\DisplaySomething\obj\Debug\DisplaySomething.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\DisplaySomething\obj\Debug\DisplaySomething.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\DisplaySomething\obj\Debug\DisplaySomething.pdb

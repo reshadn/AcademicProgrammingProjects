@@ -1,0 +1,7 @@
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\anotherApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\anotherApp\bin\Debug\anotherApp.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\anotherApp\bin\Debug\anotherApp.pdb
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\anotherApp\obj\Debug\anotherApp.exe
+C:\Documents and Settings\reshad\C#VisualStudio\2008  C# Fundamentals for Visual Studio .NET Platform\Day3\anotherApp\obj\Debug\anotherApp.pdb
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\anotherApp\obj\Debug\anotherApp.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day3\anotherApp\obj\Debug\anotherApp.pdb

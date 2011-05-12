@@ -1,0 +1,5 @@
+C:\Reshad\Day2\Demo1\bin\Debug\Demo1.exe
+C:\Reshad\Day2\Demo1\bin\Debug\Demo1.pdb
+C:\Reshad\Day2\Demo1\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day2\Demo1\obj\Debug\Demo1.exe
+C:\Reshad\Day2\Demo1\obj\Debug\Demo1.pdb

@@ -1,0 +1,10 @@
+C:\Reshad\Day2\UsingEnums\bin\Debug\UsingEnums.exe
+C:\Reshad\Day2\UsingEnums\bin\Debug\UsingEnums.pdb
+C:\Reshad\Day2\UsingEnums\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day2\UsingEnums\obj\Debug\UsingEnums.Properties.Resources.resources
+C:\Reshad\Day2\UsingEnums\obj\Debug\UsingEnums.csproj.GenerateResource.Cache
+C:\Reshad\Day2\UsingEnums\obj\Debug\UsingEnums.exe
+C:\Reshad\Day2\UsingEnums\obj\Debug\UsingEnums.pdb
+C:\Reshad\Day2\UsingEnums\obj\Debug\UsingEnums.Main.resources
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingEnums\obj\Debug\UsingEnums.exe
+C:\Documents and Settings\reshad\01C#VisualStudio\2008VisualC#\Day2\UsingEnums\obj\Debug\UsingEnums.pdb

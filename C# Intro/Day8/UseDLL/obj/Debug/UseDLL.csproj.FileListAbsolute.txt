@@ -1,0 +1,10 @@
+C:\Reshad\Day8\UseDLL\bin\Debug\UseDLL.exe
+C:\Reshad\Day8\UseDLL\bin\Debug\UseDLL.pdb
+C:\Reshad\Day8\UseDLL\bin\Debug\MyLib.dll
+C:\Reshad\Day8\UseDLL\bin\Debug\MyLib.pdb
+C:\Reshad\Day8\UseDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day8\UseDLL\obj\Debug\UseDLL.useDll.resources
+C:\Reshad\Day8\UseDLL\obj\Debug\UseDLL.Properties.Resources.resources
+C:\Reshad\Day8\UseDLL\obj\Debug\UseDLL.csproj.GenerateResource.Cache
+C:\Reshad\Day8\UseDLL\obj\Debug\UseDLL.exe
+C:\Reshad\Day8\UseDLL\obj\Debug\UseDLL.pdb

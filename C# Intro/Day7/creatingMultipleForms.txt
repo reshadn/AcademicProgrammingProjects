@@ -1,0 +1,9 @@
+Creating multiple forms 
+
+private void btnGoTo_Click(object sender, EventArgs e)
+{
+  MyForm aForm = new MyForm();	// instantiating a form
+  aForm.ShowDialog(); 		// Unable to go back to forms
+  MyForm bForm = new MyForm();
+  bForm.Show();			// able to move from form to form
+}

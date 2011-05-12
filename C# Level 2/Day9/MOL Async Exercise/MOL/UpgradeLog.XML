@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MOL">
+</Property><Property Name="Solution File" Value="C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\MOL.sln">
+</Property><Property Name="User Options File" Value="C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\MOL.suo">
+</Property><Property Name="Date" Value="Wednesday, November 19, 2008">
+</Property><Property Name="Time" Value="14:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MOL.sln" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\MOL.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MOL.suo" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\MOL.suo">
+</Event><Event ErrorLevel="0" Project="MOL" Source="MOL.csproj" Description="Project file successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\MOL.csproj">
+</Event><Event ErrorLevel="0" Project="MOL" Source="MOL.csproj.user" Description="Project user file successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\MOL.csproj.user">
+</Event><Event ErrorLevel="0" Project="MOL" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MOL" Source="Boss.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\Boss.cs">
+</Event><Event ErrorLevel="0" Project="MOL" Source="Universe.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\Universe.cs">
+</Event><Event ErrorLevel="0" Project="MOL" Source="Worker.cs" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\Worker.cs">
+</Event><Event ErrorLevel="0" Project="MOL" Source="App.ico" Description="File successfully backed up as C:\UCLA\IntermediateC#Fall2008\Module7\MOL Async Exercise\MOL\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="MOL" Source="MOL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MOL" Source="MOL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MOL.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MOL.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MOL" Source="MOL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

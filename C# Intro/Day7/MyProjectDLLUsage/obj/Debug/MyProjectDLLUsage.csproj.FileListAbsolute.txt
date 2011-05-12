@@ -1,0 +1,5 @@
+C:\Reshad\Day 7\MyProjectDLLUsage\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\MyProjectDLLUsage\bin\Debug\MyProjectDLLUsage.exe
+C:\Reshad\Day 7\MyProjectDLLUsage\bin\Debug\MyProjectDLLUsage.pdb
+C:\Reshad\Day 7\MyProjectDLLUsage\obj\Debug\MyProjectDLLUsage.exe
+C:\Reshad\Day 7\MyProjectDLLUsage\obj\Debug\MyProjectDLLUsage.pdb

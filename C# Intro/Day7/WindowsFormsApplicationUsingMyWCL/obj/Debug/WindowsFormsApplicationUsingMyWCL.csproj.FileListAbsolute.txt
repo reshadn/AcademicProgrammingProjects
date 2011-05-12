@@ -1,0 +1,10 @@
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\bin\Debug\WindowsFormsApplicationUsingMyWCL.exe
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\bin\Debug\WindowsFormsApplicationUsingMyWCL.pdb
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\bin\Debug\MyWCL.dll
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\bin\Debug\MyWCL.pdb
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\WindowsFormsApplicationUsingMyWCL.Form1.resources
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\WindowsFormsApplicationUsingMyWCL.Properties.Resources.resources
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\WindowsFormsApplicationUsingMyWCL.csproj.GenerateResource.Cache
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\WindowsFormsApplicationUsingMyWCL.exe
+C:\Reshad\Day 7\WindowsFormsApplicationUsingMyWCL\obj\Debug\WindowsFormsApplicationUsingMyWCL.pdb

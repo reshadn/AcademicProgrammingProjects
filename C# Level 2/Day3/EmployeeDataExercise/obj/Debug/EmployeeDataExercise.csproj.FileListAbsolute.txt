@@ -1,0 +1,8 @@
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\bin\Debug\EmployeeDataExercise.exe
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\bin\Debug\EmployeeDataExercise.pdb
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\EmployeeDataExercise.EmployeeData.resources
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\EmployeeDataExercise.Properties.Resources.resources
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\EmployeeDataExercise.csproj.GenerateResource.Cache
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\EmployeeDataExercise.exe
+C:\Reshad\C#ProgII\Day3\EmployeeDataExercise\obj\Debug\EmployeeDataExercise.pdb

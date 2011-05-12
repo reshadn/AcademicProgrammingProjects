@@ -1,0 +1,8 @@
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\ResolveAssemblyReference.cache
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\UseGraphics.DisplayGraphics.resources
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\UseGraphics.Properties.Resources.resources
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\UseGraphics.csproj.GenerateResource.Cache
+C:\Reshad\C#ProgII\Day5\UseGraphics\bin\Debug\UseGraphics.exe
+C:\Reshad\C#ProgII\Day5\UseGraphics\bin\Debug\UseGraphics.pdb
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\UseGraphics.exe
+C:\Reshad\C#ProgII\Day5\UseGraphics\obj\Debug\UseGraphics.pdb
